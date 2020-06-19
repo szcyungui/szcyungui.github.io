@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      作业评分系统总结报告
+subtitle:   山东大学崇新学堂创新软件项目
+date:       2017-01-06
+author:     Yungui, Shishuo, Xu Yudan
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - React
+    - 函数式编程
+    - 开源框架
+---
+
 # 作业自动评分系统总结报告
 | 版本    | 修订人   | 修订日期   | 修订描述   | 
 |:----|:----:|:----|:----|:----|
