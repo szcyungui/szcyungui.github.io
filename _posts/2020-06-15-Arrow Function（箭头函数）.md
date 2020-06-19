@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 2020-06-15-Arrow Function（箭头函数）
+title:      Arrow Function（箭头函数）
 date:       2020-06-15
 author:     Yungui
 header-img: img/post-bg-ios9-web.jpg
