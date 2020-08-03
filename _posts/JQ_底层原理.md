@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:   JQ_底层原理
+title:   2020-07-27-JQ_底层原理
 date:       2020-07-27
 author:     Yungui
 header-img: img/post-bg-ios9-web.jpg
